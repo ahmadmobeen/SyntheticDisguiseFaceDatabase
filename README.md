@@ -1,4 +1,4 @@
-# SyntheticDisguisedFaceDatabase
+# Synthetic Disguised Face Database
 The database repository for Synthetic Disguised Face Database (Syn-DFD).
 
 
