@@ -11,7 +11,7 @@ To access the database kindly email: mobeen[at]sju.ac.kr with the subject: "Synt
 OR
 Fill out the License Agreement at https://forms.gle/3bgrfa65h1SEW3Ld9
 
-How to use Syn-DFD:
+## How to use Syn-DFD:
 
 Synthetic Disguised Face Database is freely available for usage in scientific research only.
 All publications using Sejong Face Database must cite the following papers:
