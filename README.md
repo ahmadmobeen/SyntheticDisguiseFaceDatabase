@@ -13,12 +13,12 @@ Some results are shown in the figure below:
 
 To access the database kindly email: mobeen[at]sju.ac.kr with the subject: "Synthetic Disguised Face Database Access Request."
 ### OR
-Fill out the License Agreement at https://forms.gle/3bgrfa65h1SEW3Ld9
+Fill out the License Agreement at [https://forms.gle/3bgrfa65h1SEW3Ld9](https://forms.gle/3bgrfa65h1SEW3Ld9)
 
 ## How to use Syn-DFD:
 Synthetic Disguised Face Database is freely available for usage in scientific research only.
 All publications using Sejong Face Database must cite the following papers:
 
-1. Ahmad, M.; Cheema, U.; Abdullah, M.; Moon, S.; Han, D. Generating Synthetic Disguised Faces with Cycle-Consistency Loss and an Automated Filtering Algorithm. Mathematics 2022, 10, 4. https://doi.org/10.3390/math10010004
+1. Ahmad, M.; Cheema, U.; Abdullah, M.; Moon, S.; Han, D. Generating Synthetic Disguised Faces with Cycle-Consistency Loss and an Automated Filtering Algorithm. Mathematics 2022, 10, 4. [https://doi.org/10.3390/math10010004](https://doi.org/10.3390/math10010004)
 
-2. Cheema, Usman, and Seungbin Moon. "Sejong face database: A multi-modal disguise face database." Computer Vision and Image Understanding 208 (2021): 103218. https://doi.org/10.1016/j.cviu.2021.103218
+2. Cheema, Usman, and Seungbin Moon. "Sejong face database: A multi-modal disguise face database." Computer Vision and Image Understanding 208 (2021): 103218. [https://doi.org/10.1016/j.cviu.2021.103218](https://doi.org/10.1016/j.cviu.2021.103218)
